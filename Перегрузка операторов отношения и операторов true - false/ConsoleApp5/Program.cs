@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ConsoleApplication1
 {
-    class MyArr
+    partial class MyArr
     {
         // Координаты точки в трехмерном пространстве
         public int x, y, z;
@@ -194,6 +194,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Point2-- = "
                 + Point2.x + " " + Point2.y + " " + Point2.z);
             Console.WriteLine(Point1 == Point2);
+            Console.WriteLine(Point1 != Point2);
             Console.ReadLine();
         }
     }
