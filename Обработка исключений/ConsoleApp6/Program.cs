@@ -24,7 +24,7 @@ namespace exceptioHandling
             var faker = new Faker<Person>("ru")
                 .RuleFor(p => p.FirstName, f => f.Name.FirstName())
                 .RuleFor(p => p.LastName, f => f.Name.LastName())
-                .RuleFor(p => p.Age, f => f.Random.Int(0, 18))
+                .RuleFor(p => p.Age, f => f.Random.Int(0, 100))
                 .RuleFor(p => p.Email, (f, p) => f.Internet.Email(p.FirstName, p.LastName));
             List<Person> people = faker.Generate(10);
             List<Person> registeredUsers = new List<Person>();
