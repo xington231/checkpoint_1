@@ -11,3 +11,16 @@ C:\Users\degty\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleA.F7A32CA5.
 C:\Users\degty\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
 C:\Users\degty\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
 C:\Users\degty\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe.config
+E:\Study\c#\Обработка исключений\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+E:\Study\c#\Обработка исключений\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+E:\Study\c#\Обработка исключений\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+E:\Study\c#\Обработка исключений\ConsoleApp6\bin\Debug\Bogus.dll
+E:\Study\c#\Обработка исключений\ConsoleApp6\bin\Debug\Faker.Net.4.7.dll
+E:\Study\c#\Обработка исключений\ConsoleApp6\bin\Debug\Bogus.xml
+E:\Study\c#\Обработка исключений\ConsoleApp6\bin\Debug\de-DE\Faker.Net.4.7.resources.dll
+E:\Study\c#\Обработка исключений\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+E:\Study\c#\Обработка исключений\ConsoleApp6\obj\Debug\ConsoleApp6.exe.config
+E:\Study\c#\Обработка исключений\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\Study\c#\Обработка исключений\ConsoleApp6\obj\Debug\ConsoleA.F7A32CA5.Up2Date
+E:\Study\c#\Обработка исключений\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+E:\Study\c#\Обработка исключений\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
