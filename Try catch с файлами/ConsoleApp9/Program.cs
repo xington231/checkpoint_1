@@ -16,11 +16,6 @@ namespace ConsoleApp9
             {
                 Console.Write("Введите путь к файлу: ");
                 string path = Console.ReadLine();
-                if (!File.Exists(path))
-                {
-                    Console.WriteLine("Данный файл не существует");
-                    return;
-                }
                 string text = File.ReadAllText(path);
                 Console.WriteLine("Содержимое файла: ");
                 Console.WriteLine(text);
