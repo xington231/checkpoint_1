@@ -1,0 +1,16 @@
+C:\Users\degty\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\degty\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\degty\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\degty\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\degty\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\degty\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\degty\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
+C:\Users\degty\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe.config
+E:\Study\c#\Интерфейсы\Книги и студенты\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+E:\Study\c#\Интерфейсы\Книги и студенты\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+E:\Study\c#\Интерфейсы\Книги и студенты\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+E:\Study\c#\Интерфейсы\Книги и студенты\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+E:\Study\c#\Интерфейсы\Книги и студенты\ConsoleApp12\obj\Debug\ConsoleApp12.exe.config
+E:\Study\c#\Интерфейсы\Книги и студенты\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+E:\Study\c#\Интерфейсы\Книги и студенты\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+E:\Study\c#\Интерфейсы\Книги и студенты\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
